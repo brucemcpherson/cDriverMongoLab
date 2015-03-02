@@ -1,5 +1,5 @@
 # Google Apps Script Project: cDriverMongoLab
-This repo (cDriverMongoLab) was automatically updated on 13 February 2015 21:19:30 GMT by GasGit
+This repo (cDriverMongoLab) was automatically updated on 02 March 2015 19:32:04 GMT by GasGit
 
 For more information see the [desktop liberation site](http://ramblings.mcpher.com/Home/excelquirks/drivesdk/gettinggithubready "desktop liberation") or [contact me on G+](https://plus.google.com/+BruceMcpherson "Bruce McPherson - GDE")
 ## Details for Apps Script project cDriverMongoLab
@@ -12,9 +12,13 @@ The shared link for [cDriverMongoLab is here](https://script.google.com/d/11N6ca
 cMongoLab| server_js
 forPublishing| server_js
 ### Directly referenced libraries
-no libraries discovered
+*library*|*identifier*|*key*|*version*|*dev mode*|*source*|
+--- | --- | --- | --- | --- | --- 
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|23|no|[here](libraries/cUseful "library source")
 ### All dependencies and sub dependencies
-no libraries discovered
+*library*|*identifier*|*key*|*version*|*dev mode*|*source*|
+--- | --- | --- | --- | --- | --- 
+cUseful| cUseful|Mcbr-v4SsYKJP7JMohttAZyz3TLx7pV4j|23|no|[here](libraries/cUseful "library source")
 ### Enabled Google Services
 no libraries discovered
 ###Need more detail ?
